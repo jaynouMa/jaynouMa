@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This is Jaynou, current sophomore (Class of 2028) at West High School. I really like biology, but I dabble in code sometimes as well. I am way worse at coding than bio, so I've decided to focus on microbiology and biochemistry. Occasionally I will still post the odd coding project though. 
+
+[insert bio here]
+
+
 <!--
 **jaynouMa/jaynouMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
